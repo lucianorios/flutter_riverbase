@@ -4,8 +4,8 @@ import 'package:dio/dio.dart';
 import 'package:dio/io.dart';
 import 'package:path/path.dart';
 
-import 'api-result.dart';
-import 'base-model.dart';
+import 'api_result.dart';
+import 'base_model.dart';
 import 'exceptions.dart';
 import 'interceptors/interceptors.dart';
 
